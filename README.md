@@ -30,17 +30,6 @@ Each case follows a consistent investigation process:
 
 ---
 
-
-## 📊 Sample Cases
-
-| Case                      | Description                                 |
-| ------------------------- | ------------------------------------------- |
-| Suspicious AD Enumeration | Detection of domain reconnaissance commands |
-| Brute Force Login Attempt | Multiple failed authentication attempts     |
-| Phishing Email Analysis   | Investigation of malicious email activity   |
-
----
-
 ## Tools & Technologies
 
 * SIEM (Splunk / simulated environments)
@@ -51,19 +40,6 @@ Each case follows a consistent investigation process:
 
 ---
 
-## Disclaimer
-
-These case studies are based on simulated environments and training platforms. They are intended for educational purposes to demonstrate SOC analysis skills.
-
----
-
 ## About Me
 
 Aspiring SOC Analyst & Red Teamer focused on building practical, job-ready cybersecurity skills through hands-on labs and real-world simulations.
-
----
-
-## Note
-
-This repository focuses on **analysis and reporting**, not just lab completion.
-All cases are written to reflect **real SOC investigation standards**.
