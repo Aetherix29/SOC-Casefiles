@@ -30,16 +30,6 @@ Each case follows a consistent investigation process:
 
 ---
 
-## Case Structure
-
-Each case is organized as:
-
-Case-Name/
-├── report.md
-├── screenshots/
-└── notes.md (optional)
-
----
 
 ## 📊 Sample Cases
 
